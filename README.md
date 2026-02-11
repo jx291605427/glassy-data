@@ -7,5 +7,5 @@
 5. Towards accurate prediction of configurational disorder properties in materials using graph neural networks https://github.com/qmatyanlab/Configurational-Disorder.
 6. Fracture behavior of ordered and disordered solids predicted by atomistic simulations https://github.com/chenzhiminlr/Solid-mechanics
 7. Persistent homology elucidates hierarchical structures responsible for mechanical properties in covalent amorphous solids  https://zenodo.org/records/15959771  https://doi.org/10.5281/zenodo.15959267
-8. Persistent homology for structural characterization in disordered systems 
-https://github.com/anwanguow/PH_structural
+8. Persistent homology for structural characterization in disordered systems https://github.com/anwanguow/PH_structural
+9. Harnessing Graph Convolutional Neural Networks for identification of glassy states in metallic glasses https://github.com/ejgurniak/GNN4MAT
